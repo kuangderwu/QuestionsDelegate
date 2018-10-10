@@ -8,6 +8,12 @@
 
 import UIKit
 
+/*
+Commit to GitHub
+Level: 低-中 階
+Topic: Model/View/Controller/Delegate (TableViewDelegate + Custom Delegate)
+*/
+
 class RootVC: UIViewController, UITableViewDelegate, UITableViewDataSource, AddQuestionDelegate {
 
     
